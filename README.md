@@ -26,7 +26,7 @@
 ---
 
 ## 🚀 Projects
-- 🔢 Smart Calculator Website 👉 (https://app.netlify.com/projects/smartcalc-anurag/overview )
+- 🔢 Smart Calculator Website 👉 ( https://smartcalc-anurag.netlify.app/)
 - 🛒 E-commerce Website
 -    Portfolio Website 
 - 📈 More projects coming soon...  
