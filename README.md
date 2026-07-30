@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anurag Kumar
 
-🎓 B.Tech 2nd Year Computer Science And Engineering Student  
-🏫 Invertis University  
+🎓 B.Tech 3rd Year Computer Science And Engineering Student  
+🏫 Invertis University Bareilly 
 💻 Web Developer | Frontend Enthusiast  
 🚀 Passionate about building modern & responsive web applications  
 
@@ -26,7 +26,7 @@
 ---
 
 ## 🚀 Projects
-- 🔢 Smart Calculator Website  
+- 🔢 Smart Calculator Website 👉 (https://app.netlify.com/projects/smartcalc-anurag/overview )
 - 🛒 E-commerce Website
 -    Portfolio Website 
 - 📈 More projects coming soon...  
@@ -45,7 +45,8 @@
 
 ## 🌍 Connect With Me
 - 💼 LinkedIn:  ( https://www.linkedin.com/in/anurag-kumar-437a31364)
-- 📧 Email: (anurag638942@gmail.com)  
+- 📧 Email: (anurag638942@gmail.com)
+-  
 
 ---
 
