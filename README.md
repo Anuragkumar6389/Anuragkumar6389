@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Anurag Kumar
 
 🎓 B.Tech 3rd Year Computer Science And Engineering Student  
-🏫 Invertis University Bareilly 
-    Aspiring Web Developer & |Frontend Developer.
+🏫 Invertis University Bareilly.
+ Aspiring Web Developer &Frontend Developer.
 🚀 Passionate about building modern & responsive web applications  
 
 ---
