@@ -2,7 +2,7 @@
 
 🎓 B.Tech 3rd Year Computer Science And Engineering Student  
 🏫 Invertis University Bareilly 
-💻 Web Developer | Frontend Enthusiast  
+    Aspiring Web Developer & |Frontend Developer.
 🚀 Passionate about building modern & responsive web applications  
 
 ---
@@ -27,8 +27,7 @@
 
 ## 🚀 Projects
 - 🔢 Smart Calculator Website 👉 ( https://smartcalc-anurag.netlify.app/)
-- 🛒 E-commerce Website
--    Portfolio Website 
+-    Portfolio Website (:https://anuragdeveloper-portfolio.netlify.app/ )
 - 📈 More projects coming soon...  
 
 ---
