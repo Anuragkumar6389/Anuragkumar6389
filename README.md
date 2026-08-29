@@ -1,53 +1,54 @@
-# 👋 Hi, I'm Anurag Kumar
+👋 Hi, I'm Anurag Kumar
 
-🎓 B.Tech 3rd Year Computer Science And Engineering Student  
-🏫 Invertis University Bareilly.
- Aspiring Web Developer &Frontend Developer.
-🚀 Passionate about building modern & responsive web applications  
-
----
-
-## 🌱 About Me
-- 🎯 Currently learning Web Development & Machine Learning  
-- 💡 Interested in building real-world projects  
-- ⚡ Focused on consistency and continuous improvement  
+🎓 http://B.Tech 3rd Year - Computer Science & Engineering
+🏫 Invertis University, Bareilly
+💻 Frontend Developer | Aspiring Web Developer
+🚀 Passionate about building modern & responsive web applications
 
 ---
 
-## 🛠️ Skills
-- 💻 HTML5  
-- 🎨 CSS3  
-- ⚡ JavaScript  
-- 🐍 Python  
-- 🌐 Responsive Web Design  
-- 🔧 Git & GitHub  
-- 🧑‍💻 VS Code  
+🌱 About Me
+- 🎯 Currently learning Web Development & Machine Learning
+- 💡 Interested in building real-world projects
+- ⚡ Focused on consistency and continuous improvement
 
 ---
 
-## 🚀 Projects
-- 🔢 Smart Calculator Website 👉 ( https://smartcalc-anurag.netlify.app/)
--    Portfolio Website (:https://anuragdeveloper-portfolio.netlify.app/ )
-- 📈 More projects coming soon...  
+🛠️ Skills
+- 💻 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 🐍 Python
+- 🌐 Responsive Web Design
+- 🔧 Git & GitHub
+- 🧑‍💻 VS Code
 
 ---
 
-## 📊 GitHub Stats
-
-
----
-
-## 🔥 Streak Stats
-
+🚀 Projects
+- 🔢 *Smart Calculator Website* - https://smartcalc-anurag.netlify.app/
+- 🌐 *Portfolio Website* - https://anuragdeveloper-portfolio.netlify.app/
+- 📈 More projects coming soon...
 
 ---
 
-## 🌍 Connect With Me
-- 💼 LinkedIn:  ( https://www.linkedin.com/in/anurag-kumar-437a31364)
-- 📧 Email: (anurag638942@gmail.com)
--  
+📊 GitHub Stats
+https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuragkumar6389&theme=tokyonight
+
+🔥 Streak Stats
+https://streak-stats.demolab.com?user=anuragkumar6389&theme=tokyonight&hide_border=true
+
+🏆 Most Used Languages
+https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuragkumar6389&theme=tokyonight
 
 ---
 
-## ⚡ Fun Fact
-💡 *"Code + Consistency = Success"*
+🌍 Connect With Me
+- 💼 *LinkedIn:* https://www.linkedin.com/in/anurag-kumar-437a31364
+- 📧 *Email:* anurag638942@gmail.com
+- 🌐 *Portfolio:* https://anuragdeveloper-portfolio.netlify.app/
+
+---
+
+⚡ Fun Fact
+💡 _"Code + Consistency = Success"_
