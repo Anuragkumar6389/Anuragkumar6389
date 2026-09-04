@@ -41,10 +41,9 @@ https://streak-stats.demolab.com?user=anuragkumar6389&theme=tokyonight&hide_bord
 🏆 Most Used Languages
 https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuragkumar6389&theme=tokyonight
 
-https://github-profile-trophy.vercel.app/?username=Anuragkumar6389&theme=radical&no-frame=false&no-bg=true&margin-w=4)]
+![](https://github-profile-trophy.vercel.app/?username= Anuragkumar6389&theme=radical&no-frame=true&row=1&column=6)
 
-https://github.com/Anuragkumar6389
----
+
 
 🌍 Connect With Me
 - 💼 *LinkedIn:* https://www.linkedin.com/in/anurag-kumar-437a31364
