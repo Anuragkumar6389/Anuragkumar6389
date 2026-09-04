@@ -42,8 +42,6 @@ https://streak-stats.demolab.com?user=anuragkumar6389&theme=tokyonight&hide_bord
 https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuragkumar6389&theme=tokyonight
 
 
-[image](https://github-profile-trophy.vercel.app/?username=Anuragkumar6389&theme=tokyonight&row=1&column=6)
-
 🌍 Connect With Me
 - 💼 *LinkedIn:* https://www.linkedin.com/in/anurag-kumar-437a31364
 - 📧 *Email:* anurag638942@gmail.com
