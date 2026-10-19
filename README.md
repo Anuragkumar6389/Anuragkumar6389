@@ -30,13 +30,19 @@
 - 🌐 *Portfolio Website* - https://anuragdeveloper-portfolio.netlify.app/
 - 📈 More projects coming soon...
 
----
+
 
 📊 GitHub Stats
 [stats](https://github-readme-stats.vercel.app/api?username=Anuragkumar6389&show_icons=true&theme=tokyonight&hide_border=true)
 
-🔥 Streak Stats
-![streak](https://streak-stats.demolab.com?user=Anuragkumar6389&theme=tokyonight&hide_border=true)
+🔥 Streak Stats 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Anuragkumar6389&theme=tokyonight&hide_border=true"
+    alt="Anurag Kumar GitHub Streak"
+  />
+</p>
+
 
 🏆 Most Used Languages
 [langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkumar6389&layout=compact&theme=tokyonight&hide_border=true)
