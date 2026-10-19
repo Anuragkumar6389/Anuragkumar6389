@@ -33,7 +33,7 @@
 
 
 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuragkumar6389&show_icons=true&theme=tokyonight)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuragkumar6389&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 🔥 Streak Stats 
 <p align="center">
   <img
