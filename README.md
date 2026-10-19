@@ -33,13 +33,13 @@
 ---
 
 📊 GitHub Stats
-https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuragkumar6389&theme=tokyonight
+[stats](https://github-readme-stats.vercel.app/api?username=AnuragKumar&show_icons=true&theme=tokyonight)
 
 🔥 Streak Stats
-https://streak-stats.demolab.com?user=anuragkumar6389&theme=tokyonight&hide_border=true
+[streak](https://streak-stats.demolab.com?user=AnuragKumar&theme=tokyonight)
 
 🏆 Most Used Languages
-https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuragkumar6389&theme=tokyonight
+[langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragKumar&layout=compact&theme=tokyonight)
 
 
 🌍 Connect With Me
