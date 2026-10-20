@@ -62,17 +62,17 @@
   />
 </p>
 
-### 📈 Contribution Activity
+```html
+### 🔥 GitHub Streak Stats
 
 <p align="center">
-  <a href="https://github.com/Anuragkumar6389">
-    <img
-      src="https://ghchart.rshah.org/Anuragkumar6389"
-      alt="Anurag Kumar GitHub Contribution Graph"
-      width="100%"
-    />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com/?user=Anuragkumar6389&theme=dark&hide_border=true&background=080d1a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8"
+    alt="Anurag Kumar GitHub Streak Stats"
+    width="80%"
+  />
 </p>
+```
 
 <p align="center">
   <a href="https://github.com/Anuragkumar6389?tab=repositories">📁 View Repositories</a>
