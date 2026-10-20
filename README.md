@@ -32,14 +32,52 @@
 
 
 
-📊 GitHub Stats
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuragkumar6389&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-🔥 Streak Stats 
+📊## 💻 My GitHub Journey
+
 <p align="center">
+  <b>MY CODING ACTIVITY</b><br/>
+  My coding journey, contributions, and projects on GitHub.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Anuragkumar6389">
+    <img src="https://github.com/Anuragkumar6389.png" width="100" alt="Anurag Kumar"/>
+  </a><br/>
+  <b>Anurag Kumar</b><br/>
+  <a href="https://github.com/Anuragkumar6389">@Anuragkumar6389</a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Anuragkumar6389&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Anurag Kumar GitHub Stats"
+    width="49%"
+  />
   <img
     src="https://streak-stats.demolab.com/?user=Anuragkumar6389&theme=tokyonight&hide_border=true"
     alt="Anurag Kumar GitHub Streak"
+    width="49%"
   />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/Anuragkumar6389">
+    <img
+      src="https://ghchart.rshah.org/Anuragkumar6389"
+      alt="Anurag Kumar GitHub Contribution Graph"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Anuragkumar6389?tab=repositories">📁 View Repositories</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/Anuragkumar6389">🔗 Visit GitHub Profile</a>
 </p>
 
 
