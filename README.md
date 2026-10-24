@@ -9,7 +9,7 @@
 
 ## 🌱 About Me
 
-- 🎯 Currently learning Web Development and Machine Learning
+- 🎯 Currently learning  Mern Stack Development and Data Structure And Algorithm 
 - 💡 Interested in building real-world projects
 - ⚡ Focused on consistency and continuous improvement
 - 🤝 Enjoy working in teams and learning new technologies
@@ -42,7 +42,7 @@ A responsive calculator built with HTML, CSS, and JavaScript.
 My portfolio website showcasing my skills, projects, and achievements.
 
 - **Live Website:** [Visit Portfolio](https://anuragdeveloper-portfolio.netlify.app/)
-- **Source Code:** [View Repository](https://github.com/Anuragkumar6389/Myportfolio)
+  
 
 ### 📈 Bank Loan Risk Analysis
 A data analysis project exploring bank loan risk.
@@ -125,5 +125,5 @@ A data analysis project exploring bank loan risk.
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my projects and connect with me.
+  ⭐ Thanks for visiting my  profile! Feel free to explore my projects and connect with me.
 </p>
