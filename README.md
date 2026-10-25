@@ -45,7 +45,11 @@ My portfolio website showcasing my skills, projects, and achievements.
   
 
 ### 📈 Bank Loan Risk Analysis
-A data analysis project exploring bank loan risk.
+A data analysis project exploring bank loan risk Analysis and technology used in this project 
+machine learning 
+scikit learn 
+matplotib 
+
 
 - **Live App:** [Open Project](https://bank-loan-risk-analysis-anurag.streamlit.app/)
 - **Source Code:** [View Repository](https://github.com/Anuragkumar6389/Bank-Loan-Risks-Analysis)
