@@ -8,7 +8,7 @@
 ---
 
 ## 🌱 About Me
-
+   I Am a third Year Student with a Strong Interest in Web Development .
 - 🎯 Currently learning  Mern Stack Development and Data Structure And Algorithm 
 - 💡 Interested in building real-world projects
 - ⚡ Focused on consistency and continuous improvement
