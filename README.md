@@ -3,7 +3,7 @@
 🎓 **B.Tech 3rd Year — Computer Science & Engineering Student**  
 🏫 Invertis University, Bareilly, Uttar Pradesh  
 💻 Frontend Developer | Aspiring Web Developer  
-🚀 Passionate about building modern, responsive, and user-friendly web applications
+🚀 Passionate about building modern, responsive, and user-friendly web applications 
 
 ---
 
@@ -33,13 +33,13 @@
 ## 🚀 Projects
 
 ### 🔢 Smart Calculator
-A responsive calculator built with HTML, CSS, and JavaScript.
+A responsive calculator website built with HTML, CSS, and JavaScript. 
 
 - **Live Demo:** [Open Website](https://smartcalc-anurag.netlify.app/)
 - **Source Code:** [View on GitHub](https://github.com/Anuragkumar6389/Smart--Calculator-)
 
 ### 🌐 Personal Portfolio
-My portfolio website showcasing my skills, projects, and achievements.
+My portfolio website showcasing my skills, projects,  certificate and achievements. 
 
 - **Live Website:** [Visit Portfolio](https://anuragdeveloper-portfolio.netlify.app/)
   
