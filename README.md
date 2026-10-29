@@ -11,8 +11,8 @@
    I Am a third Year Student with a Strong Interest in Web Development .
 - 🎯 Currently learning  Mern Stack Development and Data Structure And Algorithm 
 - 💡 Interested in building real-world projects
-- ⚡ Focused on consistency and continuous improvement
-- 🤝 Enjoy working in teams and learning new technologies
+- ⚡ Focused on consistency and continuous improvement in my journey 
+- 🤝 Enjoy working in teams and learning new technologies 
 
 ---
 
@@ -49,6 +49,7 @@ A data analysis project exploring bank loan risk Analysis and technology used in
 machine learning 
 scikit learn 
 matplotib 
+
 
 
 - **Live App:** [Open Project](https://bank-loan-risk-analysis-anurag.streamlit.app/)
