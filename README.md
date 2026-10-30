@@ -2,7 +2,7 @@
 
 🎓 **B.Tech 3rd Year — Computer Science & Engineering Student**  
 🏫 Invertis University, Bareilly, Uttar Pradesh  
-💻 Frontend Developer | Aspiring Web Developer  
+💻 Frontend Developer | Aspiring Web Developer &Mern Stack Developer 
 🚀 Passionate about building modern, responsive, and user-friendly web applications 
 
 ---
