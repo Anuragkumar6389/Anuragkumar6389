@@ -72,20 +72,22 @@ matplotib
   <a href="https://github.com/Anuragkumar6389">@Anuragkumar6389</a>
 </p>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Anuragkumar6389&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=Anuragkumar6389&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     alt="Anurag Kumar GitHub Stats"
-    width="49%"
+    height="180"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragkumar6389&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anuragkumar6389&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Anurag Kumar Most Used Languages"
-    width="49%"
+    height="180"
   />
 </p>
+
 
 ### 🔥 GitHub Streak
 
