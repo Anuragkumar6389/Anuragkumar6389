@@ -90,19 +90,19 @@ matplotib
   <a href="https://github.com/Anuragkumar6389">@Anuragkumar6389</a>
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Anuragkumar6389&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"
+    src="https://trophy.ryglcloud.net/?username=Anuragkumar6389&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10"
     alt="Anurag Kumar GitHub Trophies"
     width="100%"
   />
 </p>
 
----
+
+
 
 ## 📊 GitHub Stats
 
@@ -122,19 +122,18 @@ matplotib
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Contribution Streak
 
 <p align="center">
   <a href="https://github.com/Anuragkumar6389">
     <img
-      src="https://streak-stats.demolab.com/?user=Anuragkumar6389&theme=dark&hide_border=true&background=080d1a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8&v=3"
-      alt="Anurag Kumar GitHub Streak Stats"
+      src="https://streak-stats.demolab.com/?user=Anuragkumar6389&theme=dark&hide_border=true&background=080d1a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8"
+      alt="Anurag Kumar GitHub Contribution Streak"
       width="100%"
     />
   </a>
 </p>
 
----
 
 ### 📈 GitHub Contribution Graph
 
@@ -148,18 +147,16 @@ matplotib
   </a>
 </p>
 
----
+
+<!-- Profile Visitors -->
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Anuragkumar6389&label=Profile%20Views&color=a78bfa&style=flat"
+    src="https://komarev.com/ghpvc/?username=Anuragkumar6389&label=Profile%20Views&color=6C63FF&style=flat-square"
     alt="Profile Views"
   />
 </p>
 
-<p align="center">
-  ⭐ <b>Thanks for visiting my GitHub profile!</b>
-</p>
 
 
 
