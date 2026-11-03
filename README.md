@@ -165,18 +165,15 @@ A data analysis and machine learning project focused on exploring bank loan data
   <a href="https://github.com/Anuragkumar6389">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/anurag-kumar-437a31364/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://anuragdeveloper-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
- 
-  <a href="www.linkedin.com/in/
-anurag-kumar-437a31364
-">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
 
----
+ 
 
 ## 👀 Profile Visitors
 
