@@ -74,13 +74,12 @@ matplotib
 - **Live App:** [Open Project](https://bank-loan-risk-analysis-anurag.streamlit.app/)
 - **Source Code:** [View Repository](https://github.com/Anuragkumar6389/Bank-Loan-Risks-Analysis)
 
----
 
 ## 💻 My GitHub Journey
 
 <p align="center">
   <b>MY CODING ACTIVITY</b><br/>
-  My coding journey, contributions, and projects on GitHub.
+  My coding journey, contributions, achievements, and projects on GitHub.
 </p>
 
 <p align="center">
@@ -90,6 +89,20 @@ matplotib
   <b>Anurag Kumar</b><br/>
   <a href="https://github.com/Anuragkumar6389">@Anuragkumar6389</a>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Anuragkumar6389&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"
+    alt="Anurag Kumar GitHub Trophies"
+    width="100%"
+  />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -107,6 +120,7 @@ matplotib
   />
 </p>
 
+---
 
 ### 🔥 GitHub Streak
 
@@ -119,6 +133,8 @@ matplotib
     />
   </a>
 </p>
+
+---
 
 ### 📈 GitHub Contribution Graph
 
@@ -133,6 +149,19 @@ matplotib
 </p>
 
 ---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Anuragkumar6389&label=Profile%20Views&color=a78bfa&style=flat"
+    alt="Profile Views"
+  />
+</p>
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my GitHub profile!</b>
+</p>
+
+
 
 ## 📫 Connect With Me
 
