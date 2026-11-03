@@ -135,17 +135,31 @@ matplotib
 </p>
 
 
-### 📈 GitHub Contribution Graph
+
+<!-- =============== GITHUB STREAK =============== -->
+
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
+
+<p align="center">
+  <b>Consistency • Dedication • Continuous Growth</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/Anuragkumar6389">
     <img
-      src="https://ghchart.rshah.org/Anuragkumar6389"
-      alt="Anurag Kumar GitHub Contribution Graph"
-      width="100%"
+      src="https://streak-stats.demolab.com/?user=Anuragkumar6389&theme=dark&hide_border=true&background=0D1117&ring=F59E0B&fire=F97316&currStreakLabel=F59E0B&sideLabels=22D3EE&currStreakNum=FFFFFF&sideNums=22D3EE&dates=94A3B8"
+      alt="Anurag Kumar GitHub Streak"
+      width="90%"
     />
   </a>
 </p>
+
+<p align="center">
+  <sub>Keep Learning • Keep Building • Keep Contributing 🚀</sub>
+</p>
+
+<!-- ============================================== -->
+
 
 
 <!-- Profile Visitors -->
