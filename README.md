@@ -38,13 +38,6 @@
   <img src="https://img.shields.io/badge/Problem_Solving-2E8B57?style=for-the-badge" alt="Problem Solving"/>
 </p>
 
-### 🤖 Machine Learning & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-6A1B9A?style=for-the-badge" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-</p>
 
 ### 🔧 Tools & Platforms
 <p>
