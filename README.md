@@ -91,15 +91,28 @@ matplotib
 </p>
 
 
-## 🏆 GitHub Trophies
+
+<!-- ============== GITHUB TROPHIES ============== -->
+
+<h2 align="center">🏆 GitHub Achievements & Trophies</h2>
+
+<p align="center">
+  <strong>My Coding Journey • Contributions • Achievements</strong>
+</p>
 
 <p align="center">
   <img
-    src="https://trophy.ryglcloud.net/?username=Anuragkumar6389&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10"
+    src="https://trophy.ryglcloud.net/?username=Anuragkumar6389&theme=discord&column=4&row=2&margin-w=15&margin-h=15"
     alt="Anurag Kumar GitHub Trophies"
     width="100%"
   />
 </p>
+
+<p align="center">
+  <strong>🚀 Keep Coding | Keep Building | Keep Growing</strong>
+</p>
+
+<!-- ============================================== -->
 
 
 
